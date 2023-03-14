@@ -46,3 +46,5 @@ let res = suma(1,2,1)
 console.log(res);
 suma2(1,2,1)
 
+clg 
+
